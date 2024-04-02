@@ -1,0 +1,83 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background: black;
+    color: white;
+}
+body > p {
+ text-align: center;
+}
+.header-div {
+    margin: 15px;
+    background: #111;
+    border-radius: 8px;
+    padding: 8px;
+    text-align: center;
+}
+.header-div h4 {
+    font-family: "Oswald", sans-serif;
+    font-size: 17px;
+}
+.pp {
+    font-weight: 350;
+    font-family: "Oswald", sans-serif;
+    font-size: 14px;
+    background: #111;
+    padding: 4px;
+    border-radius: 6px;
+    margin: 0px 15px;
+}
+.header-div h5 {
+    font-family: "Oswald", sans-serif;
+    /* font-family: "Rubik Scribble", system-ui; */
+    font-size: 15px;
+}
+.centered {
+    display: flex;
+    justify-content: center;
+}
+.long-border {
+    /* border-top: 1px solid rgb(214, 170, 47); */
+    width: 30%;
+    margin-top: 1px;
+}
+.short-border {
+    /* border-top: 1px solid rgb(214, 170, 47); */
+    width: 25%;
+    margin-top: 3px;
+}
+.camera-img {
+    width: 90%;
+    height: 90vw;
+    margin: 20px;
+    border-radius: 5px;
+}
+.text-div {
+    text-align: center;
+}
+.text-1 {
+    color: rgb(214, 170, 47);
+    font-size: 25px;
+}
+.text-2 {
+    font-family: "Oswald", sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+}
+.text-3 {
+    color: rgb(214, 170, 47);
+}
+.booking-btn {
+    background: rgb(214, 170, 47);
+    color: black;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 15px;
+    font-weight: bold;
+}
+section {
+    background: #111;
+}
