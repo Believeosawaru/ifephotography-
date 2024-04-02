@@ -11,7 +11,7 @@ body > p {
 }
 .header-div {
     margin: 15px;
-    background: #444;
+    background: white;
     border-radius: 8px;
     padding: 8px;
     text-align: center;
@@ -24,7 +24,7 @@ body > p {
     font-weight: 350;
     font-family: "Oswald", sans-serif;
     font-size: 14px;
-    background: #444;
+    background: white;
     padding: 4px;
     border-radius: 6px;
     margin: 0px 15px;
